@@ -1,7 +1,7 @@
-name: root
 channels:
 - conda-forge
 - defaults
 dependencies:
 - matplotlib=2.1.1=py36_0
 - numpy=1.13.3=py36_blas_openblas_200
+- pandas=0.22.0=py36_0
